@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.img
+*.partial
+capture.lock
+manifest.json
+emmc-extcsd.txt
